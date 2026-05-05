@@ -1,5 +1,5 @@
 # Synthetic-Biomolecular-Condensates-as-Tunable-Microtubule-Assembly-Hubs
-The repository contains the codes used for processing and analyzing the nanorheology data for the paper, "Synthetic Biomolecular Condensates as Tunable Microtubule Assembly Hubs".
+The repository contains the codes used for processing and analyzing the nanorheology data and the bioinformatics data for MAP IDRs for the paper, "Synthetic Biomolecular Condensates as Tunable Microtubule Assembly Hubs".
 
 # Software: Anaconda distribution v2024.10-1
 
